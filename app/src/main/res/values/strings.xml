@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_title">Settings</string>
+    <string name="connection_list">wi-fi</string>
+    <string name="wifi_summary">To open wifi connection </string>
+    <string name="title">Personal</string>
+    <string name="personal_entries">Wallpaper</string>
+    <string name="connections">Connections</string>
+
+
+    <string-array name="colors">
+        <item>Red</item>
+        <item>Rose</item>
+    </string-array>
+
+</resources>
